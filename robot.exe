@@ -44,7 +44,7 @@ function scrollToBottom(){
       companyName = $(elem).find('.startup-link').text();
 
       // Build personalized note
-      customNote = "Hi " + contactName + "! I'm a mathematician. I solve problems. I'd like to contribute my skills to " + companyName + ". Let's chat!";
+      customNote = "Hi " + contactName + "! I'm a UC Berkeley new grad with a bachelor's in Data Science. I'd like to contribute my skills to " + companyName + ". Let's chat!";
 
       // .header-info .tagline (text)
       jobDescription = $(elem).find('.tagline').text();
